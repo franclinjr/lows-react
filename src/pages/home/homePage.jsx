@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function HomePage() {
   return (
-    <div>Olá mundosssssssssssssssssssssss</div>
+    <div>Página Inicial</div>
   )
 }
